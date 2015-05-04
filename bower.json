@@ -1,14 +1,19 @@
 {
-  "name": "webcomponentsjs",
+  "name": "webmodules-webcomponentsjs",
   "main": "webcomponents.js",
-  "version": "0.5.1-1",
+  "version": "0.5.2",
   "homepage": "http://webcomponents.org",
   "authors": [
     "The Polymer Authors"
   ],
   "keywords": [
-    "webcomponents"
+    "x-tag",
+    "polymers"
   ],
   "license": "BSD",
-  "ignore": []
+  "description": "Library to provide Baise Webcompnents functionalities",
+  "moduleType": [
+    "es6",
+    "globals"
+  ]
 }
