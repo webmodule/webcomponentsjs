@@ -1,4 +1,5 @@
 {
+	"name": "webmodules/webcomponents",
 	"webmodules/webcomponents/lite": {
 		"js": ["unified/webcomponents-lite.js"]
 	},
