@@ -1,0 +1,9 @@
+{
+	"name": "webmodules/webcomponents",
+	"webmodules/webcomponents": {
+		"js": ["webcomponents.js"]
+	},
+	"webmodules/webcomponents/lite": {
+		"js":["unified/webcomponents-lite.js"]
+	}
+}
