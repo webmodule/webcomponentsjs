@@ -1,7 +1,6 @@
 {
   "name": "webmodules-webcomponentsjs",
   "main": "webcomponents.js",
-  "version": "0.5.2",
   "homepage": "http://webcomponents.org",
   "authors": [
     "The Polymer Authors"
@@ -15,5 +14,8 @@
   "moduleType": [
     "es6",
     "globals"
-  ]
+  ],
+  "dependencies": {
+    "webcomponents.js": "~1.0.1"
+  }
 }
